@@ -2,7 +2,7 @@ import threading as th
 from time import time
 
 import itertools as it
-
+#pull request
 def Collatz(n):
     steps = 0
     while n != 1:
